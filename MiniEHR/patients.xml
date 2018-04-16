@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<patients>
+	<patient>
+		<first>James</first>
+		<last>Peach</last>
+		<dob>2/22/1993</dob>
+		<phone>5089876543</phone>
+	</patient>
+	<patient>
+		<first>Tanya</first>
+		<last>Tanaka</last>
+		<dob>6/16/1963</dob>
+		<phone>7743217654</phone>
+	</patient>
+	<patient>
+		<first>Fred</first>
+		<last>Prince</last>
+		<dob>4/4/1944</dob>
+		<phone>5559871234</phone>
+	</patient>
+	<patient>
+		<first>Maria</first>
+		<last>Gomes</last>
+		<dob>11/11/1983</dob>
+		<phone>8885556666</phone>
+	</patient>
+</patients>
